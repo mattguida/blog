@@ -1,0 +1,4 @@
+[submodule "matteoguidablog/public/public2"]
+	path = matteoguidablog/public/public2
+	url = https://github.com/mattguida/matteoguida.github.io.git
+	branch = main
